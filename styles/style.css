@@ -416,7 +416,7 @@ padding: 3%;
 }
 
 
-@media screen and (max-width: 1332px) {
+@media screen and (max-width: 1211px) {
   html {
     font-size: 53%;
   }
@@ -431,7 +431,7 @@ padding: 3%;
   }
 }
 
-@media screen and (max-width: 754px) {
+@media screen and (max-width: 1210px) {
   html {
     font-size: 45%;
   }
@@ -442,6 +442,7 @@ padding: 3%;
     width: 100%;
 
   }
+  
   nav .logo {
     display: -webkit-box;
     display: -ms-flexbox;
